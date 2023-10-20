@@ -1,1 +1,4 @@
-# KIS_2023_selecting
+# Example of start programm:
+
+In terminal:
+'python3 main.py ./DIR1/ ./DIR2/ 33'
